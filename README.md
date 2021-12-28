@@ -7,6 +7,7 @@ language using in this project
 * Php 
 * Css 
 * Sccs
+* javascript
 
 Technology used 
 
